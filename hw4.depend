@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1620646317 source:c:\users\casper\onedrive\masaüstü\cs201\hw4\stack.cpp
+	<iostream>
+	"Stack.h"
+
+1620646156 c:\users\casper\onedrive\masaüstü\cs201\hw4\stack.h
+
+1621125553 source:c:\users\casper\onedrive\masaüstü\cs201\hw4\strangecalculator.cpp
+	<iostream>
+	<string>
+	"StrangeCalculator.h"
+
+1621126713 source:c:\users\casper\onedrive\masaüstü\cs201\hw4\main.cpp
+	<iostream>
+	"StrangeCalculator.h"
+
+1620649884 c:\users\casper\onedrive\masaüstü\cs201\hw4\strangecalculator.h
+	<string>
+
